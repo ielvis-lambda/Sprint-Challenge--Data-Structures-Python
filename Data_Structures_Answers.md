@@ -7,11 +7,9 @@ Add your answers to the questions below.
     N/A
 
 3. What is the runtime complexity of your `breadth_first_for_each` method?
-
 The runtime complexity of my `breadth_first_for_each` method is O(n) since we have to visit each node once the time it takes our code to run will depend on the number of nodes (n). 
 
 4. What is the space complexity of your `breadth_first_for_each` method?
-
 Similarly the space complexity of our code is also O(n) since we will need as much memory for our queue as there are nodes in the tree, so the limiting factor is the number of nodes(n). 
 
 5. What is the runtime complexity of the provided code in `names.py`?
